@@ -1,105 +1,24 @@
-<h1 align="center">Hi 👋, I'm Mayukh Dey Dhara</h1>
-<h3 align="center">Electronics & Communication Engineer | C++ Enthusiast | Kotlin Learner</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayukhdeydhara17&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://linkedin.com/in/mayukh-dey-dhara">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mayukhdeydhara17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayukh_on_keys) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MAYUKH DEY DHARA) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayukhdeydhara17@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mayukhdeydhara17&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mayukhdeydhara17&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mayukhdeydhara17&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🚀 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mayukhdeydhara17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🔭 Currently polishing my fundamentals in **C++**
-- 🌱 Currently learning **C++, Kotlin, and Personality Development**
-- 💬 Ask me about **Anything**
-- 📫 Reach me at **mayukhdeydhara17@gmail.com**
-- ⚡ Fun fact: **I am the most versatile person you'll come across**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mayukhdeydhara17&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=mayukhdeydhara17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mayukhdeydhara17&theme=algolia&no-frame=true&row=1&column=7" alt="trophies" />
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayukhdeydhara17&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayukhdeydhara17&theme=tokyonight" alt="streak stats" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhdeydhara17&layout=compact&theme=tokyonight&langs_count=8" alt="top languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayukhdeydhara17&theme=tokyo-night" alt="contribution activity graph" width="100%" />
-</p>
-
-> Repo count, stars earned, and PRs/issues opened are already baked into the stats card above (top-right numbers) — no separate widget needed for those.
-
----
-
-### 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/mayukhdeydhara17/checkBinary">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayukhdeydhara17&repo=checkBinary&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/mayukhdeydhara17/AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayukhdeydhara17&repo=AI&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mayukhdeydhara17/cpp-shop-inventory">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayukhdeydhara17&repo=cpp-shop-inventory&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/mayukhdeydhara17/C-plus-splus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayukhdeydhara17&repo=C-plus-splus&theme=tokyonight" />
-  </a>
-</p>
-
-> ⚠️ These cards will render mostly blank right now — none of your 4 project repos has a description set, and `C-plus-splus` has a typo in the name. This is the highest-leverage 15 minutes you can spend on this profile: go to each repo → the ⚙️ gear icon next to "About" → add a one-line description. Do that before touching anything else below.
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-</p>
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/mayukh-dey-dhara" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayukh-dey-dhara" height="30" width="40" />
-  </a>
-</p>
-
-<p align="center">⭐ From <a href="https://github.com/mayukhdeydhara17">mayukhdeydhara17</a></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

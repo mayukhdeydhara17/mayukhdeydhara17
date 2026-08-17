@@ -53,24 +53,24 @@
 ### 🌟 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/mayukhdeydhara17/REPO-NAME-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayukhdeydhara17&repo=REPO-NAME-1&theme=tokyonight" />
+  <a href="https://github.com/mayukhdeydhara17/checkBinary">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayukhdeydhara17&repo=checkBinary&theme=tokyonight" />
   </a>
-  <a href="https://github.com/mayukhdeydhara17/REPO-NAME-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayukhdeydhara17&repo=REPO-NAME-2&theme=tokyonight" />
+  <a href="https://github.com/mayukhdeydhara17/AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayukhdeydhara17&repo=AI&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mayukhdeydhara17/REPO-NAME-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayukhdeydhara17&repo=REPO-NAME-3&theme=tokyonight" />
+  <a href="https://github.com/mayukhdeydhara17/cpp-shop-inventory">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayukhdeydhara17&repo=cpp-shop-inventory&theme=tokyonight" />
   </a>
-  <a href="https://github.com/mayukhdeydhara17/REPO-NAME-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayukhdeydhara17&repo=REPO-NAME-4&theme=tokyonight" />
+  <a href="https://github.com/mayukhdeydhara17/C-plus-splus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayukhdeydhara17&repo=C-plus-splus&theme=tokyonight" />
   </a>
 </p>
 
-> Replace `REPO-NAME-1..4` with your actual repo names (case-sensitive, no spaces). These are the GitHub "pinned repo" cards rendered dynamically — you can pin the same repos on your profile page for consistency.
+> ⚠️ These cards will render mostly blank right now — none of your 4 project repos has a description set, and `C-plus-splus` has a typo in the name. This is the highest-leverage 15 minutes you can spend on this profile: go to each repo → the ⚙️ gear icon next to "About" → add a one-line description. Do that before touching anything else below.
 
 ---
 

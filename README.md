@@ -1,4 +1,3 @@
-```html
 <!-- ======================= HEADER ======================= -->
 
 <h1 align="center">
@@ -55,7 +54,7 @@ Git & GitHub            ██████████████░░░░�
 ECE Fundamentals        ██████████░░░░░░░░░░  50%
 Kotlin                  ███████░░░░░░░░░░░░░  35%
 Projects                █████████░░░░░░░░░░░  45%
-````
+```
 
 ---
 
@@ -289,4 +288,3 @@ My ongoing collection of **C++ learning, practice and experiments**.
 <p align="center">
   <i>Thanks for visiting my profile!</i>
 </p>
-```
